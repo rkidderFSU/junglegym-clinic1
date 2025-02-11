@@ -29,8 +29,8 @@ public class Spawner : MonoBehaviour
             int randomNumber = Random.Range(0, spawnPoints.Count);
             GameObject randomSpawnPoint = spawnPoints[randomNumber];
             Instantiate(enemyPrefab, randomSpawnPoint.transform);
+            yield return new WaitForSeconds(0.75f);
         }
-        yield return null;
     }
 
     void TrackEnemies()
