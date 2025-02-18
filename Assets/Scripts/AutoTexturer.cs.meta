@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1e708331c1b366649aa2014398decc4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorMaterial: {fileID: 2100000, guid: 13b4de7d08f124b4daf971b334fd858a, type: 2}
+  - openWallMaterial: {fileID: 2100000, guid: f673cc8e3fbd32a40b2f04512f2685b0, type: 2}
+  - singleWallMaterial: {fileID: 2100000, guid: b56d6dec8e9adb74c985d4380e83624e, type: 2}
+  - iShapeWallMaterial: {fileID: 2100000, guid: a3fa4f9528ca9f54890a36c8102fa779, type: 2}
+  - lShapeWallMaterial: {fileID: 2100000, guid: 594c4150e7b067545a49ce95b32a3981, type: 2}
+  - uShapeWallMaterial: {fileID: 2100000, guid: b9891c34c6152a14f83f7af6dd7a7db9, type: 2}
+  - emptyCeilingMaterial: {fileID: 2100000, guid: 10d4f5b7609365a43babc5cddfa64db7, type: 2}
+  - fluorescentCeilingMaterial: {fileID: 2100000, guid: 13246fe3b608d29409cf0012cb6579bc, type: 2}
+  - lampCeilingMaterial: {fileID: 2100000, guid: ca14e12ecd2d2d2408153acfca9585d7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

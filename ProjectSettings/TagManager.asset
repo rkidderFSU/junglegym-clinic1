@@ -5,8 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - Floor
-  - Wall
+  - Bouncy Floor
+  - Open Wall
+  - Single Wall
+  - I-Shape Wall
+  - L-Shape Wall
+  - U-Shape Wall
+  - Empty Ceiling
+  - Fluorescent Ceiling
+  - Lamp Ceiling
   layers:
   - Default
   - TransparentFX
